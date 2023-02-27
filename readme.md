@@ -10,10 +10,6 @@ Por exemplo, suponha que você tenha um arquivo index.ts localizado na pasta src
 
 tsc src/index.ts --outDir dist
 
-## Nesse projeto, você pode executar o comando abaixo para compilar todos os arquivos TypeScript para a pasta dist:
-
-tsc typescript/\*.ts --outDir dist
-
 # Executar os arquivos JavaScript
 
 Para executar um arquivo JavaScript, você pode passar o caminho completo do arquivo para o comando node no terminal.
